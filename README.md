@@ -14,3 +14,5 @@ U-rollno='NNiNNNN',rollno='NNiNNNN';
 
 Delete Query Syntax:
 D-rollno='NNiNNNN';
+
+In these queries, N can be any number from 0-9 and you can use any field from maths, science, computer and english in place of rollno accordingly.
